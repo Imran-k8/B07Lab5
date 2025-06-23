@@ -1,4 +1,4 @@
-package lab4;
+
 public class Circle {
 	Point centre;
 	double radius;
