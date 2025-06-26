@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class SquareTest {
 
-	@Test
+    @Test
     public void testGetSide() {
     	double side = 5.0;
     	Square square = new Square(side);
