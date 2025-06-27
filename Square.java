@@ -1,4 +1,5 @@
-package B07Lab5
+package B07Lab5;
+
 public class Square { 
 	double side;
 

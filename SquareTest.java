@@ -1,4 +1,5 @@
-package B07Lab5
+package B07Lab5;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
